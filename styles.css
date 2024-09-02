@@ -3,7 +3,9 @@ body {
     font-family: 'Roboto', sans-serif;
     padding: 0;
     color: #333;
-    background-color: #e0dede; 
+    background-color: #e0dede;
+    text-align: justify;
+    text-indent: 20px;
 }
 
 /* Cabeçalho */
